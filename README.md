@@ -678,16 +678,16 @@ contactus.html
 
 ### Home Page:
 
-![Alt text](<home page.png>)
+![home page](https://github.com/sreeniveditaa/productcompanywebsite/assets/147473268/c533f359-161a-46b9-b0c2-1ea65b42f01f)
 
 ### Products:
-![Alt text](products.png)
+![products](https://github.com/sreeniveditaa/productcompanywebsite/assets/147473268/3518d213-e1f9-43a9-8622-346c63c9ae67)
 
 ### Employees:
-![Alt text](employees.png)
+![employees](https://github.com/sreeniveditaa/productcompanywebsite/assets/147473268/112b646b-3b84-43e8-9ef3-4e06df2d2516)
 
 ### Contact Us:
-![Alt text](<contact us.png>)
+![contact us](https://github.com/sreeniveditaa/productcompanywebsite/assets/147473268/c1a83b68-e4cc-42a0-9fc0-082ad5afbeff)
 
 
 ## Result:
